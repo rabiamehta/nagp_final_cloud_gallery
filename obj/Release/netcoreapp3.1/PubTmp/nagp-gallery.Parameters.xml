@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="nagp-app" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\CoE-Cloud\\NAGP-2021\\03-Cloud\\HomeAssignment\\nagp-gallery\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
